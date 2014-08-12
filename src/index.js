@@ -51,3 +51,5 @@ if (csv2md.options.stream) {
     console.log(csv2md.rowsToString());
   });
 }
+
+module.exports = csv2md;
